@@ -1,0 +1,7 @@
+*.o
+*.mod*
+*.cmd
+*.order
+*.symvers
+.tmp_versions/
+metatron.mod
